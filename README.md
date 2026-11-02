@@ -16,4 +16,7 @@
 
     Визуализация: Построение графиков Loss, Accuracy, L2-нормы весов и их изменений с помощью matplotlib.
 
-https://my_graphs.png/
+
+
+![Графы](my_graphs.png)
+
